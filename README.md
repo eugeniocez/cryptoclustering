@@ -26,7 +26,7 @@ In this challenge, you'll leverage your Python and unsupervised learning skills 
     - Create an empty list to store inertia values.
     - Use a for loop to compute inertia for each k.
     - Plot the elbow curve using a line chart.
-2. We determined the optimal K value was 4
+- We determined the optimal K value was 4
 
 ### 4. Cluster Cryptocurrencies with K-means Using the Original Scaled Data
 
@@ -54,8 +54,8 @@ In this challenge, you'll leverage your Python and unsupervised learning skills 
     - Create an empty list for inertia values.
     - Use a for loop to compute inertia for each k.
     - Plot the elbow curve.
-2. We were able to determine that the best value for K when using the PCA data was 4.
-3. When comparing, we found out it did not differ from the best k value when using the original data.
+- We were able to determine that the best value for K when using the PCA data was 4.
+- When comparing, we found out it did not differ from the best k value when using the original data.
 
 ### 7. Cluster Cryptocurrencies with K-means Using the PCA Data
 
